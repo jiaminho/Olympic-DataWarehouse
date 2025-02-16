@@ -1,6 +1,4 @@
-# Olympic-DataWarehouse
-
-# Olympic Dataset: Data Warehouse Design and Multidimensional Analysis
+# Data Warehouse Design and Multidimensional Analysis on Olympic Dataset
 
 ## Overview
 This project focuses on designing a data warehouse for analyzing Olympic datasets using multidimensional analysis. It incorporates business intelligence concepts, data transformation techniques, and visualization tools to derive meaningful insights from Olympic data.
